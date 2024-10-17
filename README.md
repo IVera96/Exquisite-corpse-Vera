@@ -12,4 +12,5 @@ After a night of restful respite, the champions once again set out to slay the m
 
 ### La follia e cosa mentale
 
-
+Access and authorisations are in our way to reach the :dragon: nest
+Together we merge our forces 
